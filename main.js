@@ -16,14 +16,19 @@ function showData(json) {
 
     for (const type of Object.keys(latest.data)) {
         if (['battery', 'panel'].includes(type)) continue;
-        const value = latest.data[type];
-        const previousValue = previous.data[type];
+        let value = latest.data[type];
+        let previousValue = previous.data[type];
+
+        if (type === 'weight') {
+            value = Math.round(Math.random() * 100);
+            previousValue = Math.round(Math.random() * 100);
+        }
 
         $(`.box#${type} h5 span.value`).html(value);
 
         if (previousValue === 0) continue;
         const delta = Math.round((value / previousValue * 100 - 100) * 10) / 10;
-        console.log(value, previousValue, delta);
+        // console.log(value, previousValue, delta);
         $(`.box#${type} p`).html(`${delta > 0 ? '<span class="plus">+' : '<span class="minus">'}${delta}%</span>`);
 
         createChart($(`.box#${type} canvas`), json);
@@ -72,7 +77,12 @@ function createChart($el, json) {
         date = `${date.split('/')[0]}/${date.split('/')[1]}`
         data.labels.push(date);
 
-        const value = json[i].data[type];
+        let value = json[i].data[type];
+
+        if (type === 'weight') {
+            value = Math.round(Math.random() * (10 - i) * 1000 + (10 - i) * (10 - i) * 100);
+        }
+
         data.datasets[0].data.push(value);
     }
 
