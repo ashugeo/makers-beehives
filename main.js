@@ -6,6 +6,12 @@ function showData(json) {
     let html = '';
 
     const latest = json[0];
+
+    const date = `Last update on ${latest.date.split(' ')[0]} at ${latest.date.split(' ')[1]}`;
+    $('#latest-date').html(date);
+
+    $('#camera-feed h3').after(`<div class="image"><img src="${latest.image}"><span class="live"><i class="fas fa-video"></i>Live</span></div>`);
+
     const previous = json[1];
 
     for (const type of Object.keys(latest.data)) {
@@ -13,7 +19,7 @@ function showData(json) {
         const value = latest.data[type];
         const previousValue = previous.data[type];
 
-        $(`.box#${type} h4 span.value`).html(value);
+        $(`.box#${type} h5 span.value`).html(value);
 
         if (previousValue === 0) continue;
         const delta = Math.round((value / previousValue * 100 - 100) * 10) / 10;
@@ -23,18 +29,31 @@ function showData(json) {
         createChart($(`.box#${type} canvas`), json);
     }
 
-    for (const mesure of json) {
-        // console.log(mesure);
-        // html += `<div class="box">${mesure.date}</div>`;
+    const units = {
+        light: ' lux',
+        temperature: '°C',
+        humidity: '%',
+        noise: ' dB',
+        co: ' ppm',
+        no2: ' ppm'
     }
 
-    $('.wrap').append(html);
+
+    for (let i = 0; i < 8; i += 1) {
+        const mesure = json[i];
+
+        html = '<tr>';
+        html += `<td>${mesure.date}</td>`;
+        for (const type of ['light', 'temperature', 'humidity', 'noise', 'co', 'no2']) {
+            html += `<td>${mesure.data[type]}${units[type]}</td>`;
+        }
+        html += '</tr>'
+        $('table tbody').append(html);
+    }
 }
 
 function createChart($el, json) {
     const type = $el.parent('.box').attr('id');
-    console.log(type);
-    console.log(json);
 
     const data = {
         labels: [],

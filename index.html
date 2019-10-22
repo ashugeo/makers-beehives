@@ -27,23 +27,27 @@
     </aside> -->
     <main>
         <div class="wrap">
-            <h1>Dashboard</h1>
+            <div class="row">
+                <h1>Dashboard</h1>
+                <p id="latest-date" class="noflex">Test</p>
+            </div>
+
             <div class="row">
                 <div class="box highlight" id="light">
-                    <h3>Light</h3>
-                    <h4><span class="value">0</span><span class="unit">lux</span></h4>
+                    <h4>Light</h4>
+                    <h5><span class="value">0</span><span class="unit">lux</span></h5>
                     <p>+0%</p>
                     <canvas height="64"></canvas>
                 </div>
                 <div class="box highlight" id="temperature">
-                    <h3>Temperature</h3>
-                    <h4><span class="value">0</span><span class="unit">°C</span></h4>
+                    <h4>Temperature</h4>
+                    <h5><span class="value">0</span><span class="unit">°C</span></h5>
                     <p>+0%</p>
                     <canvas height="64"></canvas>
                 </div>
                 <div class="box highlight" id="humidity">
-                    <h3>Humidity</h3>
-                    <h4><span class="value">0</span><span class="unit">%</span></h4>
+                    <h4>Humidity</h4>
+                    <h5><span class="value">0</span><span class="unit">%</span></h5>
                     <p>+0%</p>
                     <canvas height="64"></canvas>
                 </div>
@@ -51,25 +55,55 @@
 
             <div class="row">
                 <div class="box highlight" id="noise">
-                    <h3>Noise</h3>
-                    <h4><span class="value">0</span><span class="unit">dB</span></h4>
+                    <h4>Noise</h4>
+                    <h5><span class="value">0</span><span class="unit">dB</span></h5>
                     <p>+0%</p>
                     <canvas height="64"></canvas>
                 </div>
                 <div class="box highlight" id="co">
-                    <h3>CO</h3>
-                    <h4><span class="value">0</span><span class="unit">ppm</span></h4>
+                    <h4>CO</h4>
+                    <h5><span class="value">0</span><span class="unit">ppm</span></h5>
                     <p>+0%</p>
                     <canvas height="64"></canvas>
                 </div>
                 <div class="box highlight" id="no2">
-                    <h3>NO2</h3>
-                    <h4><span class="value">0</span><span class="unit">ppm</span></h4>
+                    <h4>NO2</h4>
+                    <h5><span class="value">0</span><span class="unit">ppm</span></h5>
                     <p>+0%</p>
                     <canvas height="64"></canvas>
                 </div>
             </div>
 
+            <div class="row">
+                <div class="box" id="camera-feed">
+                    <h3>Camera feed</h3>
+                </div>
+
+                <div class="box" id="lorem">
+                    <h3>Lorem ipsum</h3>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="box" id="latest-data">
+                    <h3>Latest data</h3>
+
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Light</th>
+                                <th>Temperature</th>
+                                <th>Humidity</th>
+                                <th>Noise</th>
+                                <th>CO</th>
+                                <th>NO2</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
         </div>
     </main>
 </body>
