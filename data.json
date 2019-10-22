@@ -1,0 +1,1547 @@
+[
+    {
+        "date": "22/10/2019 11:16:22",
+        "data": {
+            "temperature": 13,
+            "humidity": 91,
+            "light": 630,
+            "battery": 100,
+            "panel": 0,
+            "co": 65.13,
+            "no2": 0.28,
+            "noise": 192,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/4en2QD4.gif"
+    },
+    {
+        "date": "22/10/2019 10:08:54",
+        "data": {
+            "temperature": 12,
+            "humidity": 90,
+            "light": 178,
+            "battery": 100,
+            "panel": 0,
+            "co": 66.99,
+            "no2": 0.29,
+            "noise": 216,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/sWatqEl.gif"
+    },
+    {
+        "date": "22/10/2019 9:01:32",
+        "data": {
+            "temperature": 11,
+            "humidity": 89,
+            "light": 86,
+            "battery": 100,
+            "panel": 0,
+            "co": 83.71,
+            "no2": 0.29,
+            "noise": 182,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/exHvzaY.gif"
+    },
+    {
+        "date": "21/10/2019 18:24:39",
+        "data": {
+            "temperature": 12,
+            "humidity": 90,
+            "light": 24,
+            "battery": 100,
+            "panel": 0,
+            "co": 45.32,
+            "no2": 0.30,
+            "noise": 145,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/wd9XLCU.gif"
+    },
+    {
+        "date": "21/10/2019 17:17:17",
+        "data": {
+            "temperature": 13,
+            "humidity": 91,
+            "light": 79,
+            "battery": 100,
+            "panel": 0,
+            "co": 40.94,
+            "no2": 0.31,
+            "noise": 101,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/jlim32n.gif"
+    },
+    {
+        "date": "21/10/2019 16:09:34",
+        "data": {
+            "temperature": 14,
+            "humidity": 91,
+            "light": 701,
+            "battery": 100,
+            "panel": 0,
+            "co": 36.10,
+            "no2": 0.32,
+            "noise": 119,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/k9YvJeY.gif"
+    },
+    {
+        "date": "21/10/2019 15:02:14",
+        "data": {
+            "temperature": 14,
+            "humidity": 91,
+            "light": 759,
+            "battery": 100,
+            "panel": 0,
+            "co": 44.64,
+            "no2": 0.31,
+            "noise": 84,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/nLQaOzl.gif"
+    },
+    {
+        "date": "21/10/2019 13:54:36",
+        "data": {
+            "temperature": 15,
+            "humidity": 91,
+            "light": 816,
+            "battery": 100,
+            "panel": 0,
+            "co": 27.44,
+            "no2": 0.33,
+            "noise": 80,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/es55K6t.gif"
+    },
+    {
+        "date": "21/10/2019 12:47:05",
+        "data": {
+            "temperature": 15,
+            "humidity": 91,
+            "light": 468,
+            "battery": 100,
+            "panel": 0,
+            "co": 25.70,
+            "no2": 0.28,
+            "noise": 94,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/eM6Kpep.gif"
+    },
+    {
+        "date": "21/10/2019 11:39:37",
+        "data": {
+            "temperature": 13,
+            "humidity": 91,
+            "light": 445,
+            "battery": 100,
+            "panel": 0,
+            "co": 20.44,
+            "no2": 0.28,
+            "noise": 128,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/mb9k4ky.gif"
+    },
+    {
+        "date": "21/10/2019 8:17:24",
+        "data": {
+            "temperature": 11,
+            "humidity": 89,
+            "light": 24,
+            "battery": 100,
+            "panel": 0,
+            "co": 32.92,
+            "no2": 0.28,
+            "noise": 185,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/6xlc2yb.gif"
+    },
+    {
+        "date": "20/10/2019 17:39:20",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 79,
+            "battery": 100,
+            "panel": 0,
+            "co": 27.93,
+            "no2": 0.66,
+            "noise": 30,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/6UIlUEu.gif"
+    },
+    {
+        "date": "20/10/2019 16:31:42",
+        "data": {
+            "temperature": 20,
+            "humidity": 93,
+            "light": 40,
+            "battery": 100,
+            "panel": 0,
+            "co": 29.42,
+            "no2": 0.82,
+            "noise": 88,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/XZl2uVE.gif"
+    },
+    {
+        "date": "20/10/2019 15:23:53",
+        "data": {
+            "temperature": 18,
+            "humidity": 93,
+            "light": 518,
+            "battery": 100,
+            "panel": 0,
+            "co": 29.42,
+            "no2": 0.40,
+            "noise": 37,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/nNyR78i.gif"
+    },
+    {
+        "date": "20/10/2019 14:16:44",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 431,
+            "battery": 100,
+            "panel": 0,
+            "co": 22.70,
+            "no2": 0.88,
+            "noise": 64,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/7ApsmCk.gif"
+    },
+    {
+        "date": "20/10/2019 13:08:43",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 275,
+            "battery": 100,
+            "panel": 0,
+            "co": 24.02,
+            "no2": 0.63,
+            "noise": 427,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/9RUtYAj.gif"
+    },
+    {
+        "date": "20/10/2019 12:01:05",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 583,
+            "battery": 100,
+            "panel": 0,
+            "co": 27.28,
+            "no2": 0.50,
+            "noise": 44,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/EYsGjff.gif"
+    },
+    {
+        "date": "20/10/2019 10:53:26",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 703,
+            "battery": 100,
+            "panel": 0,
+            "co": 34.96,
+            "no2": 0.40,
+            "noise": 69,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/ltbUMhL.gif"
+    },
+    {
+        "date": "20/10/2019 9:45:48",
+        "data": {
+            "temperature": 17,
+            "humidity": 92,
+            "light": 172,
+            "battery": 100,
+            "panel": 0,
+            "co": 54.62,
+            "no2": 0.38,
+            "noise": 70,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/OPdbBCJ.gif"
+    },
+    {
+        "date": "19/10/2019 18:12:19",
+        "data": {
+            "temperature": 18,
+            "humidity": 93,
+            "light": 228,
+            "battery": 100,
+            "panel": 0,
+            "co": 13.94,
+            "no2": 0.35,
+            "noise": 5,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/Uw8v9C4.gif"
+    },
+    {
+        "date": "19/10/2019 17:04:37",
+        "data": {
+            "temperature": 18,
+            "humidity": 93,
+            "light": 270,
+            "battery": 100,
+            "panel": 0,
+            "co": 13.71,
+            "no2": 0.35,
+            "noise": 101,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/NywHcn8.gif"
+    },
+    {
+        "date": "19/10/2019 15:57:10",
+        "data": {
+            "temperature": 17,
+            "humidity": 92,
+            "light": 368,
+            "battery": 100,
+            "panel": 0,
+            "co": 20.72,
+            "no2": 0.30,
+            "noise": 103,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/aRuCOWW.gif"
+    },
+    {
+        "date": "19/10/2019 14:49:17",
+        "data": {
+            "temperature": 18,
+            "humidity": 93,
+            "light": 358,
+            "battery": 100,
+            "panel": 0,
+            "co": 34.39,
+            "no2": 0.30,
+            "noise": 43,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/itxoZAr.gif"
+    },
+    {
+        "date": "19/10/2019 13:41:32",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 976,
+            "battery": 100,
+            "panel": 0,
+            "co": 34.58,
+            "no2": 0.27,
+            "noise": 71,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/lyCpdcO.gif"
+    },
+    {
+        "date": "19/10/2019 11:26:24",
+        "data": {
+            "temperature": 17,
+            "humidity": 92,
+            "light": 741,
+            "battery": 100,
+            "panel": 0,
+            "co": 14.63,
+            "no2": 0.23,
+            "noise": 154,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/WVDDMz3.gif"
+    },
+    {
+        "date": "19/10/2019 10:19:05",
+        "data": {
+            "temperature": 15,
+            "humidity": 91,
+            "light": 160,
+            "battery": 100,
+            "panel": 0,
+            "co": 9.90,
+            "no2": 0.25,
+            "noise": 202,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/XKfhErS.gif"
+    },
+    {
+        "date": "19/10/2019 9:11:20",
+        "data": {
+            "temperature": 14,
+            "humidity": 91,
+            "light": 136,
+            "battery": 100,
+            "panel": 0,
+            "co": 8.65,
+            "no2": 0.27,
+            "noise": 193,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/72NliyY.gif"
+    },
+    {
+        "date": "19/10/2019 8:03:57",
+        "data": {
+            "temperature": 14,
+            "humidity": 91,
+            "light": 24,
+            "battery": 100,
+            "panel": 0,
+            "co": 16.30,
+            "no2": 0.26,
+            "noise": 212,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/R9lSDko.gif"
+    },
+    {
+        "date": "18/10/2019 18:33:33",
+        "data": {
+            "temperature": 15,
+            "humidity": 91,
+            "light": 6,
+            "battery": 100,
+            "panel": 0,
+            "co": 35.14,
+            "no2": 0.30,
+            "noise": 79,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/pV8zlon.gif"
+    },
+    {
+        "date": "18/10/2019 17:25:51",
+        "data": {
+            "temperature": 16,
+            "humidity": 92,
+            "light": 40,
+            "battery": 100,
+            "panel": 0,
+            "co": 43.97,
+            "no2": 0.31,
+            "noise": 68,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/MxhVFoH.gif"
+    },
+    {
+        "date": "18/10/2019 16:18:19",
+        "data": {
+            "temperature": 16,
+            "humidity": 92,
+            "light": 376,
+            "battery": 100,
+            "panel": 0,
+            "co": 44.64,
+            "no2": 0.31,
+            "noise": 98,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/vYyF1qj.gif"
+    },
+    {
+        "date": "18/10/2019 15:10:50",
+        "data": {
+            "temperature": 17,
+            "humidity": 92,
+            "light": 492,
+            "battery": 100,
+            "panel": 0,
+            "co": 44.87,
+            "no2": 0.32,
+            "noise": 108,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/JmcIuVB.gif"
+    },
+    {
+        "date": "18/10/2019 14:03:14",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 363,
+            "battery": 100,
+            "panel": 0,
+            "co": 42.44,
+            "no2": 0.44,
+            "noise": 31,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/kwEKxnk.gif"
+    },
+    {
+        "date": "18/10/2019 12:55:32",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 701,
+            "battery": 100,
+            "panel": 0,
+            "co": 42.00,
+            "no2": 0.46,
+            "noise": 2,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/WRKz2wO.gif"
+    },
+    {
+        "date": "18/10/2019 11:47:53",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 1140,
+            "battery": 100,
+            "panel": 0,
+            "co": 45.09,
+            "no2": 0.36,
+            "noise": 90,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/IvxThS9.gif"
+    },
+    {
+        "date": "18/10/2019 9:32:48",
+        "data": {
+            "temperature": 15,
+            "humidity": 91,
+            "light": 419,
+            "battery": 100,
+            "panel": 0,
+            "co": 64.22,
+            "no2": 0.29,
+            "noise": 212,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/BnDhLUD.gif"
+    },
+    {
+        "date": "18/10/2019 8:25:11",
+        "data": {
+            "temperature": 15,
+            "humidity": 91,
+            "light": 32,
+            "battery": 100,
+            "panel": 0,
+            "co": 180.96,
+            "no2": 0.27,
+            "noise": 271,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/k7VSWwE.gif"
+    },
+    {
+        "date": "17/10/2019 18:25:07",
+        "data": {
+            "temperature": 15,
+            "humidity": 91,
+            "light": 50,
+            "battery": 100,
+            "panel": 0,
+            "co": 40.10,
+            "no2": 0.34,
+            "noise": 94,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/moyrxT3.gif"
+    },
+    {
+        "date": "17/10/2019 17:17:14",
+        "data": {
+            "temperature": 15,
+            "humidity": 91,
+            "light": 62,
+            "battery": 100,
+            "panel": 0,
+            "co": 37.07,
+            "no2": 0.38,
+            "noise": 51,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/hZkRJw7.gif"
+    },
+    {
+        "date": "17/10/2019 15:01:58",
+        "data": {
+            "temperature": 18,
+            "humidity": 93,
+            "light": 313,
+            "battery": 100,
+            "panel": 0,
+            "co": 25.08,
+            "no2": 0.88,
+            "noise": 36,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/4ayepZ9.gif"
+    },
+    {
+        "date": "17/10/2019 13:54:12",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 756,
+            "battery": 100,
+            "panel": 0,
+            "co": 24.47,
+            "no2": 1.05,
+            "noise": 41,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/gCLqgdE.gif"
+    },
+    {
+        "date": "17/10/2019 11:38:56",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 1170,
+            "battery": 100,
+            "panel": 0,
+            "co": 20.31,
+            "no2": 0.51,
+            "noise": 99,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/RCyia2I.gif"
+    },
+    {
+        "date": "17/10/2019 10:31:20",
+        "data": {
+            "temperature": 21,
+            "humidity": 94,
+            "light": 1056,
+            "battery": 100,
+            "panel": 0,
+            "co": 26.96,
+            "no2": 0.38,
+            "noise": 13,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/RabFT1a.gif"
+    },
+    {
+        "date": "17/10/2019 9:23:39",
+        "data": {
+            "temperature": 14,
+            "humidity": 91,
+            "light": 411,
+            "battery": 100,
+            "panel": 0,
+            "co": 95.69,
+            "no2": 0.26,
+            "noise": 71,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/Hoq00Ho.gif"
+    },
+    {
+        "date": "17/10/2019 8:16:12",
+        "data": {
+            "temperature": 12,
+            "humidity": 90,
+            "light": 87,
+            "battery": 100,
+            "panel": 0,
+            "co": 252.01,
+            "no2": 0.26,
+            "noise": 76,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/5pgDzMC.gif"
+    },
+    {
+        "date": "16/10/2019 18:21:50",
+        "data": {
+            "temperature": 17,
+            "humidity": 92,
+            "light": 296,
+            "battery": 100,
+            "panel": 0,
+            "co": 34.21,
+            "no2": 1.21,
+            "noise": 61,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/T7RoB20.gif"
+    },
+    {
+        "date": "16/10/2019 17:13:59",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 1406,
+            "battery": 100,
+            "panel": 0,
+            "co": 35.52,
+            "no2": 1.56,
+            "noise": 73,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/xayiePk.gif"
+    },
+    {
+        "date": "16/10/2019 16:06:11",
+        "data": {
+            "temperature": 21,
+            "humidity": 94,
+            "light": 1609,
+            "battery": 100,
+            "panel": 0,
+            "co": 35.91,
+            "no2": 1.74,
+            "noise": 40,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/B6Gd3fY.gif"
+    },
+    {
+        "date": "16/10/2019 14:58:14",
+        "data": {
+            "temperature": 23,
+            "humidity": 95,
+            "light": 2161,
+            "battery": 100,
+            "panel": 0,
+            "co": 44.64,
+            "no2": 1.08,
+            "noise": 128,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/JCMzayI.gif"
+    },
+    {
+        "date": "16/10/2019 13:50:38",
+        "data": {
+            "temperature": 22,
+            "humidity": 95,
+            "light": 3074,
+            "battery": 100,
+            "panel": 0,
+            "co": 47.17,
+            "no2": 0.69,
+            "noise": 90,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/mhEBsGq.gif"
+    },
+    {
+        "date": "16/10/2019 12:43:03",
+        "data": {
+            "temperature": 23,
+            "humidity": 95,
+            "light": 3680,
+            "battery": 100,
+            "panel": 0,
+            "co": 53.58,
+            "no2": 0.41,
+            "noise": 29,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/uMZ9nla.gif"
+    },
+    {
+        "date": "16/10/2019 11:35:17",
+        "data": {
+            "temperature": 18,
+            "humidity": 93,
+            "light": 3092,
+            "battery": 100,
+            "panel": 0,
+            "co": 54.36,
+            "no2": 0.29,
+            "noise": 41,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/SCNeQiD.gif"
+    },
+    {
+        "date": "16/10/2019 10:28:04",
+        "data": {
+            "temperature": 28,
+            "humidity": 70,
+            "light": 2859,
+            "battery": 100,
+            "panel": 0,
+            "co": 36.49,
+            "no2": 0.36,
+            "noise": 22,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/M5O62sR.gif"
+    },
+    {
+        "date": "16/10/2019 9:20:22",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 2088,
+            "battery": 100,
+            "panel": 0,
+            "co": 19.10,
+            "no2": 0.34,
+            "noise": 60,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/vNA7yRz.gif"
+    },
+    {
+        "date": "16/10/2019 8:13:13",
+        "data": {
+            "temperature": 6,
+            "humidity": 88,
+            "light": 141,
+            "battery": 100,
+            "panel": 0,
+            "co": 23.87,
+            "no2": 0.28,
+            "noise": 153,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/1TvKJYw.gif"
+    },
+    {
+        "date": "15/10/2019 18:18:35",
+        "data": {
+            "temperature": 13,
+            "humidity": 91,
+            "light": 299,
+            "battery": 100,
+            "panel": 0,
+            "co": 23.43,
+            "no2": 0.40,
+            "noise": 77,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/yBPkTX7.gif"
+    },
+    {
+        "date": "15/10/2019 17:11:02",
+        "data": {
+            "temperature": 13,
+            "humidity": 91,
+            "light": 531,
+            "battery": 100,
+            "panel": 0,
+            "co": 25.70,
+            "no2": 0.33,
+            "noise": 81,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/tr6ev0O.gif"
+    },
+    {
+        "date": "15/10/2019 16:03:34",
+        "data": {
+            "temperature": 12,
+            "humidity": 90,
+            "light": 732,
+            "battery": 100,
+            "panel": 0,
+            "co": 26.48,
+            "no2": 0.32,
+            "noise": 66,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/qx32FSq.gif"
+    },
+    {
+        "date": "15/10/2019 14:56:01",
+        "data": {
+            "temperature": 16,
+            "humidity": 92,
+            "light": 233,
+            "battery": 100,
+            "panel": 0,
+            "co": 35.14,
+            "no2": 0.31,
+            "noise": 20,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/wgmVLPt.gif"
+    },
+    {
+        "date": "15/10/2019 13:48:20",
+        "data": {
+            "temperature": 17,
+            "humidity": 92,
+            "light": 1667,
+            "battery": 100,
+            "panel": 0,
+            "co": 31.84,
+            "no2": 0.29,
+            "noise": 110,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/iEuV7MZ.gif"
+    },
+    {
+        "date": "15/10/2019 12:40:49",
+        "data": {
+            "temperature": 14,
+            "humidity": 91,
+            "light": 474,
+            "battery": 100,
+            "panel": 0,
+            "co": 28.59,
+            "no2": 0.30,
+            "noise": 93,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/oZItLAF.gif"
+    },
+    {
+        "date": "15/10/2019 11:33:17",
+        "data": {
+            "temperature": 13,
+            "humidity": 91,
+            "light": 345,
+            "battery": 100,
+            "panel": 0,
+            "co": 30.97,
+            "no2": 0.28,
+            "noise": 130,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/oZlGx2P.gif"
+    },
+    {
+        "date": "15/10/2019 10:25:47",
+        "data": {
+            "temperature": 13,
+            "humidity": 91,
+            "light": 160,
+            "battery": 100,
+            "panel": 0,
+            "co": 49.31,
+            "no2": 0.28,
+            "noise": 143,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/MdLT25p.gif"
+    },
+    {
+        "date": "15/10/2019 9:18:29",
+        "data": {
+            "temperature": 13,
+            "humidity": 91,
+            "light": 62,
+            "battery": 100,
+            "panel": 0,
+            "co": 228.47,
+            "no2": 0.26,
+            "noise": 155,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/xPhbmmF.gif"
+    },
+    {
+        "date": "14/10/2019 17:17:53",
+        "data": {
+            "temperature": 23,
+            "humidity": 95,
+            "light": 727,
+            "battery": 100,
+            "panel": 0,
+            "co": 31.84,
+            "no2": 2.33,
+            "noise": 0,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/F8yzJAd.gif"
+    },
+    {
+        "date": "14/10/2019 15:01:50",
+        "data": {
+            "temperature": 26,
+            "humidity": 95,
+            "light": 2305,
+            "battery": 100,
+            "panel": 0,
+            "co": 36.49,
+            "no2": 4.29,
+            "noise": 0,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/vNrTyyI.gif"
+    },
+    {
+        "date": "14/10/2019 13:53:59",
+        "data": {
+            "temperature": 28,
+            "humidity": 95,
+            "light": 3261,
+            "battery": 100,
+            "panel": 0,
+            "co": 44.87,
+            "no2": 4.08,
+            "noise": 0,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/un3BGb0.gif"
+    },
+    {
+        "date": "14/10/2019 12:46:10",
+        "data": {
+            "temperature": 28,
+            "humidity": 95,
+            "light": 3932,
+            "battery": 100,
+            "panel": 0,
+            "co": 69.55,
+            "no2": 2.86,
+            "noise": 137,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/7uo8U2P.gif"
+    },
+    {
+        "date": "14/10/2019 11:38:05",
+        "data": {
+            "temperature": 27,
+            "humidity": 95,
+            "light": 3236,
+            "battery": 100,
+            "panel": 0,
+            "co": 44.64,
+            "no2": 2.00,
+            "noise": 397,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/GBwUIiY.gif"
+    },
+    {
+        "date": "14/10/2019 10:30:30",
+        "data": {
+            "temperature": 27,
+            "humidity": 95,
+            "light": 2976,
+            "battery": 100,
+            "panel": 0,
+            "co": 50.54,
+            "no2": 1.09,
+            "noise": 130,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/dcmWM3N.gif"
+    },
+    {
+        "date": "14/10/2019 9:22:51",
+        "data": {
+            "temperature": 25,
+            "humidity": 95,
+            "light": 2023,
+            "battery": 100,
+            "panel": 0,
+            "co": 84.10,
+            "no2": 0.56,
+            "noise": 30,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/0Euc1Ym.gif"
+    },
+    {
+        "date": "14/10/2019 8:15:06",
+        "data": {
+            "temperature": 18,
+            "humidity": 93,
+            "light": 237,
+            "battery": 100,
+            "panel": 0,
+            "co": 215.50,
+            "no2": 0.42,
+            "noise": 0,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/oKFKhNC.gif"
+    },
+    {
+        "date": "13/10/2019 18:34:56",
+        "data": {
+            "temperature": 22,
+            "humidity": 95,
+            "light": 303,
+            "battery": 100,
+            "panel": 0,
+            "co": 21.41,
+            "no2": 3.79,
+            "noise": 3,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/Rtpg2fi.gif"
+    },
+    {
+        "date": "13/10/2019 17:26:58",
+        "data": {
+            "temperature": 24,
+            "humidity": 73,
+            "light": 1454,
+            "battery": 100,
+            "panel": 0,
+            "co": 20.03,
+            "no2": 6.76,
+            "noise": 115,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/kP7gnxr.gif"
+    },
+    {
+        "date": "13/10/2019 16:18:52",
+        "data": {
+            "temperature": 26,
+            "humidity": 59,
+            "light": 1714,
+            "battery": 100,
+            "panel": 0,
+            "co": 18.70,
+            "no2": 9.28,
+            "noise": 3,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/66S2PGV.gif"
+    },
+    {
+        "date": "13/10/2019 15:10:51",
+        "data": {
+            "temperature": 27,
+            "humidity": 58,
+            "light": 2143,
+            "battery": 100,
+            "panel": 0,
+            "co": 20.31,
+            "no2": 9.16,
+            "noise": 280,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/JqJj3pw.gif"
+    },
+    {
+        "date": "13/10/2019 12:55:10",
+        "data": {
+            "temperature": 28,
+            "humidity": 59,
+            "light": 3667,
+            "battery": 100,
+            "panel": 0,
+            "co": 25.39,
+            "no2": 6.02,
+            "noise": 64,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/3W3cPTA.gif"
+    },
+    {
+        "date": "13/10/2019 11:47:16",
+        "data": {
+            "temperature": 27,
+            "humidity": 74,
+            "light": 3112,
+            "battery": 100,
+            "panel": 0,
+            "co": 29.76,
+            "no2": 3.44,
+            "noise": 1,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/DqbV0do.gif"
+    },
+    {
+        "date": "13/10/2019 10:39:33",
+        "data": {
+            "temperature": 25,
+            "humidity": 81,
+            "light": 3068,
+            "battery": 100,
+            "panel": 0,
+            "co": 36.88,
+            "no2": 1.63,
+            "noise": 15,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/EM4ler5.gif"
+    },
+    {
+        "date": "13/10/2019 9:31:49",
+        "data": {
+            "temperature": 23,
+            "humidity": 95,
+            "light": 2157,
+            "battery": 100,
+            "panel": 0,
+            "co": 71.52,
+            "no2": 0.57,
+            "noise": 1,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/pjHiG0g.gif"
+    },
+    {
+        "date": "13/10/2019 8:24:15",
+        "data": {
+            "temperature": 17,
+            "humidity": 92,
+            "light": 134,
+            "battery": 100,
+            "panel": 0,
+            "co": 208.83,
+            "no2": 0.38,
+            "noise": 58,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/563vKCP.gif"
+    },
+    {
+        "date": "12/10/2019 18:17:25",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 149,
+            "battery": 100,
+            "panel": 0,
+            "co": 32.92,
+            "no2": 0.46,
+            "noise": 27,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/4ymsSAM.gif"
+    },
+    {
+        "date": "12/10/2019 17:09:39",
+        "data": {
+            "temperature": 20,
+            "humidity": 93,
+            "light": 740,
+            "battery": 100,
+            "panel": 0,
+            "co": 34.21,
+            "no2": 0.54,
+            "noise": 71,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/vcLPe7b.gif"
+    },
+    {
+        "date": "12/10/2019 14:54:10",
+        "data": {
+            "temperature": 23,
+            "humidity": 95,
+            "light": 1947,
+            "battery": 100,
+            "panel": 0,
+            "co": 41.36,
+            "no2": 0.95,
+            "noise": 147,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/LL3Jq9s.gif"
+    },
+    {
+        "date": "12/10/2019 13:46:22",
+        "data": {
+            "temperature": 19,
+            "humidity": 93,
+            "light": 729,
+            "battery": 100,
+            "panel": 0,
+            "co": 42.00,
+            "no2": 0.50,
+            "noise": 59,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/ZjiB1ic.gif"
+    },
+    {
+        "date": "12/10/2019 12:38:49",
+        "data": {
+            "temperature": 23,
+            "humidity": 95,
+            "light": 1856,
+            "battery": 100,
+            "panel": 0,
+            "co": 51.79,
+            "no2": 0.94,
+            "noise": 344,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/Eey7y7a.gif"
+    },
+    {
+        "date": "12/10/2019 9:15:31",
+        "data": {
+            "temperature": 25,
+            "humidity": 95,
+            "light": 1742,
+            "battery": 100,
+            "panel": 0,
+            "co": 247.87,
+            "no2": 0.24,
+            "noise": 51,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/lknhT4O.gif"
+    },
+    {
+        "date": "11/10/2019 18:16:26",
+        "data": {
+            "temperature": 21,
+            "humidity": 76,
+            "light": 889,
+            "battery": 100,
+            "panel": 0,
+            "co": 32.38,
+            "no2": 1.86,
+            "noise": 42,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/S2UDxLW.gif"
+    },
+    {
+        "date": "11/10/2019 17:08:40",
+        "data": {
+            "temperature": 24,
+            "humidity": 62,
+            "light": 1556,
+            "battery": 100,
+            "panel": 0,
+            "co": 36.29,
+            "no2": 1.80,
+            "noise": 110,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/a7J4WkT.gif"
+    },
+    {
+        "date": "11/10/2019 14:52:32",
+        "data": {
+            "temperature": 25,
+            "humidity": 69,
+            "light": 2124,
+            "battery": 100,
+            "panel": 0,
+            "co": 52.29,
+            "no2": 0.73,
+            "noise": 39,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/EDySjZH.gif"
+    },
+    {
+        "date": "11/10/2019 13:44:45",
+        "data": {
+            "temperature": 27,
+            "humidity": 62,
+            "light": 2953,
+            "battery": 100,
+            "panel": 0,
+            "co": 70.53,
+            "no2": 0.36,
+            "noise": 1,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/t8YlqkX.gif"
+    },
+    {
+        "date": "11/10/2019 12:37:01",
+        "data": {
+            "temperature": 27,
+            "humidity": 63,
+            "light": 3301,
+            "battery": 100,
+            "panel": 0,
+            "co": 86.46,
+            "no2": 0.24,
+            "noise": 74,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/7kNnoQu.gif"
+    },
+    {
+        "date": "11/10/2019 11:29:04",
+        "data": {
+            "temperature": 24,
+            "humidity": 74,
+            "light": 2779,
+            "battery": 100,
+            "panel": 0,
+            "co": 93.51,
+            "no2": 0.19,
+            "noise": 95,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/sU5qMoG.gif"
+    },
+    {
+        "date": "11/10/2019 10:21:57",
+        "data": {
+            "temperature": 30,
+            "humidity": 54,
+            "light": 2830,
+            "battery": 100,
+            "panel": 0,
+            "co": 127.66,
+            "no2": 0.17,
+            "noise": 60,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/o3pIvVx.gif"
+    },
+    {
+        "date": "11/10/2019 9:14:07",
+        "data": {
+            "temperature": 21,
+            "humidity": 94,
+            "light": 1811,
+            "battery": 100,
+            "panel": 0,
+            "co": 106.92,
+            "no2": 0.24,
+            "noise": 47,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/J4hjm1X.gif"
+    },
+    {
+        "date": "10/10/2019 18:19:45",
+        "data": {
+            "temperature": 18,
+            "humidity": 93,
+            "light": 294,
+            "battery": 100,
+            "panel": 0,
+            "co": 39.07,
+            "no2": 1.03,
+            "noise": 63,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/JPlj0Tw.gif"
+    },
+    {
+        "date": "10/10/2019 16:04:18",
+        "data": {
+            "temperature": 22,
+            "humidity": 95,
+            "light": 1512,
+            "battery": 100,
+            "panel": 0,
+            "co": 46.70,
+            "no2": 0.93,
+            "noise": 75,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/E1XVZup.gif"
+    },
+    {
+        "date": "10/10/2019 14:56:41",
+        "data": {
+            "temperature": 17,
+            "humidity": 92,
+            "light": 816,
+            "battery": 100,
+            "panel": 0,
+            "co": 41.15,
+            "no2": 0.54,
+            "noise": 63,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/9Um3Vr9.gif"
+    },
+    {
+        "date": "10/10/2019 13:48:45",
+        "data": {
+            "temperature": 20,
+            "humidity": 93,
+            "light": 1094,
+            "battery": 100,
+            "panel": 0,
+            "co": 38.67,
+            "no2": 1.16,
+            "noise": 57,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/iyrcUzo.gif"
+    },
+    {
+        "date": "10/10/2019 12:41:20",
+        "data": {
+            "temperature": 20,
+            "humidity": 87,
+            "light": 1682,
+            "battery": 100,
+            "panel": 0,
+            "co": 46.01,
+            "no2": 0.78,
+            "noise": 58,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/E7JZ1ob.gif"
+    },
+    {
+        "date": "10/10/2019 11:33:38",
+        "data": {
+            "temperature": 25,
+            "humidity": 57,
+            "light": 2494,
+            "battery": 100,
+            "panel": 0,
+            "co": 63.92,
+            "no2": 0.56,
+            "noise": 48,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/C8p9uVo.gif"
+    },
+    {
+        "date": "10/10/2019 10:25:45",
+        "data": {
+            "temperature": 32,
+            "humidity": 63,
+            "light": 3050,
+            "battery": 100,
+            "panel": 0,
+            "co": 65.75,
+            "no2": 0.27,
+            "noise": 44,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/MCCx63o.gif"
+    },
+    {
+        "date": "10/10/2019 9:18:16",
+        "data": {
+            "temperature": 12,
+            "humidity": 90,
+            "light": 419,
+            "battery": 100,
+            "panel": 0,
+            "co": 73.88,
+            "no2": 0.28,
+            "noise": 68,
+            "weight": 0
+        },
+        "image": "https://i.imgur.com/eob91XE.gif"
+    }
+]
