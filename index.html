@@ -3,8 +3,74 @@
 <head>
     <meta charset="utf-8">
     <title>Maker's Beehives</title>
+    <link rel="stylesheet" href="./style.min.css">
+
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js" charset="utf-8"></script>
+    <script src="./main.js" charset="utf-8"></script>
 </head>
 <body>
+    <nav>
+        <div id="logo">
+            <p>makers' beehive</p>
+        </div>
+        <ul>
+            <li class="selected">Beehive 1</li>
+            <li>Beehive 2</li>
+            <li>Beehive 3</li>
+        </ul>
+    </nav>
+    <!-- <aside>
+        <ul>
+            <li>À propos</li>
+        </ul>
+    </aside> -->
+    <main>
+        <div class="wrap">
+            <h1>Dashboard</h1>
+            <div class="row">
+                <div class="box highlight" id="light">
+                    <h3>Light</h3>
+                    <h4><span class="value">0</span><span class="unit">lux</span></h4>
+                    <p>+0%</p>
+                    <canvas height="64"></canvas>
+                </div>
+                <div class="box highlight" id="temperature">
+                    <h3>Temperature</h3>
+                    <h4><span class="value">0</span><span class="unit">°C</span></h4>
+                    <p>+0%</p>
+                    <canvas height="64"></canvas>
+                </div>
+                <div class="box highlight" id="humidity">
+                    <h3>Humidity</h3>
+                    <h4><span class="value">0</span><span class="unit">%</span></h4>
+                    <p>+0%</p>
+                    <canvas height="64"></canvas>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="box highlight" id="noise">
+                    <h3>Noise</h3>
+                    <h4><span class="value">0</span><span class="unit">dB</span></h4>
+                    <p>+0%</p>
+                    <canvas height="64"></canvas>
+                </div>
+                <div class="box highlight" id="co">
+                    <h3>CO</h3>
+                    <h4><span class="value">0</span><span class="unit">ppm</span></h4>
+                    <p>+0%</p>
+                    <canvas height="64"></canvas>
+                </div>
+                <div class="box highlight" id="no2">
+                    <h3>NO2</h3>
+                    <h4><span class="value">0</span><span class="unit">ppm</span></h4>
+                    <p>+0%</p>
+                    <canvas height="64"></canvas>
+                </div>
+            </div>
+
+        </div>
+    </main>
 </body>
 </html>
