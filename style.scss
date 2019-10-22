@@ -272,7 +272,9 @@ table {
         }
 
         img {
+            position: absolute;
             width: 100%;
+            border-radius: 8px;
         }
 
         .live {
