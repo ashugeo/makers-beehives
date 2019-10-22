@@ -15,6 +15,8 @@ function showData() {
     const date = `Last update on ${latest.date.split(' ')[0]} at ${latest.date.split(' ')[1]}`;
     $('#latest-date').html(date);
 
+    $('#camera-feed .image').remove();
+
     $('#camera-feed h3').after(`<div class="image"><img src="${latest.image}"><span class="live"><i class="fas fa-video"></i>Live</span></div>`);
 
     const previous = json[1];
@@ -39,10 +41,9 @@ function showData() {
         createChart($(`.box#${type} canvas`), json);
     }
 
+    $('table tbody').empty();
     fillTable(0);
 }
-
-$(document).on('click', '#load-older', fillTable);
 
 let startAt = 0;
 
@@ -129,3 +130,17 @@ function createChart($el, json) {
         }
     });
 }
+
+$(document).on('click', '#load-older', fillTable);
+
+$(document).on('click', 'nav ul li', (e) => {
+    const $el = $(e.target);
+
+    $('nav ul li.selected').removeClass('selected');
+    $el.addClass('selected');
+
+    $.getJSON('data.json', data => {
+        json = data;
+        showData();
+    });
+});
