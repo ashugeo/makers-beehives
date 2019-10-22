@@ -213,10 +213,7 @@ table {
 
     tr {
         display: flex;
-
-        &:not(:last-child) {
-            border-bottom: 1px solid rgba(0,0,0,.05);
-        }
+        border-bottom: 1px solid rgba(0,0,0,.05);
 
         th,
         td {
@@ -234,18 +231,12 @@ table {
             color: rgba(0,0,0,.4);
             font-size: 12px;
             letter-spacing: .05em;
-            border-bottom: 1px solid rgba(0,0,0,.05);
         }
 
         td {
             color: rgba(0,0,0,.8);
         }
     }
-}
-
-img {
-    width: 100%;
-    border-radius: 8px;
 }
 
 #latest-data,
@@ -267,6 +258,22 @@ img {
 #camera-feed {
     .image {
         position: relative;
+        background-color: rgba(0,0,0,.1);
+        height: 100%;
+        border-radius: 8px;
+
+        &::before {
+            content: "Couldn't load camera feed";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: rgba(0,0,0,.4);
+        }
+
+        img {
+            width: 100%;
+        }
 
         .live {
             position: absolute;
@@ -294,5 +301,19 @@ img {
                 }
             }
         }
+    }
+}
+
+#load-older {
+    margin-top: 24px;
+    text-align: center;
+    cursor: pointer;
+
+    i {
+        margin-left: 8px;
+    }
+
+    &:hover {
+        color: rgba(0,0,0,.8);
     }
 }

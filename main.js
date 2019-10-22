@@ -1,8 +1,13 @@
+let json = {};
+
 $(document).ready(() => {
-    $.getJSON('data.json', json => showData(json));
+    $.getJSON('data.json', data => {
+        json = data;
+        showData();
+    });
 });
 
-function showData(json) {
+function showData() {
     let html = '';
 
     const latest = json[0];
@@ -34,6 +39,16 @@ function showData(json) {
         createChart($(`.box#${type} canvas`), json);
     }
 
+    fillTable(0);
+}
+
+$(document).on('click', '#load-older', fillTable);
+
+let startAt = 0;
+
+function fillTable() {
+    startAt += 8;
+
     const units = {
         light: ' lux',
         temperature: '°C',
@@ -43,9 +58,12 @@ function showData(json) {
         no2: ' ppm'
     }
 
-
-    for (let i = 0; i < 8; i += 1) {
+    for (let i = startAt; i < startAt + 8; i += 1) {
         const mesure = json[i];
+        if (!mesure) {
+            $('#load-older').remove();
+            continue;
+        };
 
         html = '<tr>';
         html += `<td>${mesure.date}</td>`;
