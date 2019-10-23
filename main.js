@@ -26,11 +26,6 @@ function showData() {
         let value = latest.data[type];
         let previousValue = previous.data[type];
 
-        if (type === 'weight') {
-            value = Math.round(Math.random() * 100);
-            previousValue = Math.round(Math.random() * 100);
-        }
-
         $(`.box#${type} h5 span.value`).html(value);
 
         if (previousValue === 0) continue;
@@ -97,10 +92,6 @@ function createChart($el, json) {
         data.labels.push(date);
 
         let value = json[i].data[type];
-
-        if (type === 'weight') {
-            value = Math.round(Math.random() * (10 - i) * 1000 + (10 - i) * (10 - i) * 100);
-        }
 
         data.datasets[0].data.push(value);
     }
