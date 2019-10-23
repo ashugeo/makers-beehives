@@ -10,7 +10,7 @@
             "co": 65.13,
             "no2": 0.28,
             "noise": 192,
-            "weight": 119
+            "weight": 34
         },
         "image": "https://i.imgur.com/lgj25xj.gif"
     },
@@ -25,7 +25,7 @@
             "co": 66.99,
             "no2": 0.29,
             "noise": 216,
-            "weight": 106
+            "weight": 30
         },
         "image": "https://i.imgur.com/sWatqEl.gif"
     },
@@ -40,7 +40,7 @@
             "co": 83.71,
             "no2": 0.29,
             "noise": 182,
-            "weight": 109
+            "weight": 31
         },
         "image": "https://i.imgur.com/exHvzaY.gif"
     },
@@ -55,7 +55,7 @@
             "co": 45.32,
             "no2": 0.3,
             "noise": 145,
-            "weight": 103
+            "weight": 29
         },
         "image": "https://i.imgur.com/wd9XLCU.gif"
     },
@@ -70,7 +70,7 @@
             "co": 40.94,
             "no2": 0.31,
             "noise": 101,
-            "weight": 103
+            "weight": 29
         },
         "image": "https://i.imgur.com/jlim32n.gif"
     },
@@ -85,7 +85,7 @@
             "co": 36.1,
             "no2": 0.32,
             "noise": 119,
-            "weight": 96
+            "weight": 27
         },
         "image": "https://i.imgur.com/k9YvJeY.gif"
     },
@@ -100,7 +100,7 @@
             "co": 44.64,
             "no2": 0.31,
             "noise": 84,
-            "weight": 91
+            "weight": 26
         },
         "image": "https://i.imgur.com/nLQaOzl.gif"
     },
@@ -115,7 +115,7 @@
             "co": 27.44,
             "no2": 0.33,
             "noise": 80,
-            "weight": 94
+            "weight": 27
         },
         "image": "https://i.imgur.com/es55K6t.gif"
     },
@@ -130,7 +130,7 @@
             "co": 25.7,
             "no2": 0.28,
             "noise": 94,
-            "weight": 93
+            "weight": 27
         },
         "image": "https://i.imgur.com/eM6Kpep.gif"
     },
@@ -145,7 +145,7 @@
             "co": 20.44,
             "no2": 0.28,
             "noise": 128,
-            "weight": 89
+            "weight": 25
         },
         "image": "https://i.imgur.com/mb9k4ky.gif"
     },
@@ -160,7 +160,7 @@
             "co": 32.92,
             "no2": 0.28,
             "noise": 185,
-            "weight": 88
+            "weight": 25
         },
         "image": "https://i.imgur.com/6xlc2yb.gif"
     },
@@ -175,7 +175,7 @@
             "co": 27.93,
             "no2": 0.66,
             "noise": 30,
-            "weight": 80
+            "weight": 23
         },
         "image": "https://i.imgur.com/6UIlUEu.gif"
     },
@@ -190,7 +190,7 @@
             "co": 29.42,
             "no2": 0.82,
             "noise": 88,
-            "weight": 81
+            "weight": 23
         },
         "image": "https://i.imgur.com/XZl2uVE.gif"
     },
@@ -205,7 +205,7 @@
             "co": 29.42,
             "no2": 0.4,
             "noise": 37,
-            "weight": 76
+            "weight": 22
         },
         "image": "https://i.imgur.com/nNyR78i.gif"
     },
@@ -220,7 +220,7 @@
             "co": 22.7,
             "no2": 0.88,
             "noise": 64,
-            "weight": 76
+            "weight": 22
         },
         "image": "https://i.imgur.com/7ApsmCk.gif"
     },
@@ -235,7 +235,7 @@
             "co": 24.02,
             "no2": 0.63,
             "noise": 427,
-            "weight": 74
+            "weight": 21
         },
         "image": "https://i.imgur.com/9RUtYAj.gif"
     },
@@ -250,7 +250,7 @@
             "co": 27.28,
             "no2": 0.5,
             "noise": 44,
-            "weight": 71
+            "weight": 20
         },
         "image": "https://i.imgur.com/EYsGjff.gif"
     },
@@ -265,7 +265,7 @@
             "co": 34.96,
             "no2": 0.4,
             "noise": 69,
-            "weight": 67
+            "weight": 19
         },
         "image": "https://i.imgur.com/ltbUMhL.gif"
     },
@@ -280,7 +280,7 @@
             "co": 54.62,
             "no2": 0.38,
             "noise": 70,
-            "weight": 64
+            "weight": 18
         },
         "image": "https://i.imgur.com/OPdbBCJ.gif"
     },
@@ -295,7 +295,7 @@
             "co": 13.94,
             "no2": 0.35,
             "noise": 5,
-            "weight": 62
+            "weight": 18
         },
         "image": "https://i.imgur.com/Uw8v9C4.gif"
     },
@@ -310,7 +310,7 @@
             "co": 13.71,
             "no2": 0.35,
             "noise": 101,
-            "weight": 62
+            "weight": 18
         },
         "image": "https://i.imgur.com/NywHcn8.gif"
     },
@@ -325,7 +325,7 @@
             "co": 20.72,
             "no2": 0.3,
             "noise": 103,
-            "weight": 61
+            "weight": 17
         },
         "image": "https://i.imgur.com/aRuCOWW.gif"
     },
@@ -340,7 +340,7 @@
             "co": 34.39,
             "no2": 0.3,
             "noise": 43,
-            "weight": 56
+            "weight": 16
         },
         "image": "https://i.imgur.com/itxoZAr.gif"
     },
@@ -355,7 +355,7 @@
             "co": 34.58,
             "no2": 0.27,
             "noise": 71,
-            "weight": 54
+            "weight": 15
         },
         "image": "https://i.imgur.com/lyCpdcO.gif"
     },
@@ -370,7 +370,7 @@
             "co": 14.63,
             "no2": 0.23,
             "noise": 154,
-            "weight": 53
+            "weight": 15
         },
         "image": "https://i.imgur.com/WVDDMz3.gif"
     },
@@ -385,7 +385,7 @@
             "co": 9.9,
             "no2": 0.25,
             "noise": 202,
-            "weight": 50
+            "weight": 14
         },
         "image": "https://i.imgur.com/XKfhErS.gif"
     },
@@ -400,7 +400,7 @@
             "co": 8.65,
             "no2": 0.27,
             "noise": 193,
-            "weight": 49
+            "weight": 14
         },
         "image": "https://i.imgur.com/72NliyY.gif"
     },
@@ -415,7 +415,7 @@
             "co": 16.3,
             "no2": 0.26,
             "noise": 212,
-            "weight": 46
+            "weight": 13
         },
         "image": "https://i.imgur.com/R9lSDko.gif"
     },
@@ -430,7 +430,7 @@
             "co": 35.14,
             "no2": 0.3,
             "noise": 79,
-            "weight": 47
+            "weight": 13
         },
         "image": "https://i.imgur.com/pV8zlon.gif"
     },
@@ -445,7 +445,7 @@
             "co": 43.97,
             "no2": 0.31,
             "noise": 68,
-            "weight": 44
+            "weight": 13
         },
         "image": "https://i.imgur.com/MxhVFoH.gif"
     },
@@ -460,7 +460,7 @@
             "co": 44.64,
             "no2": 0.31,
             "noise": 98,
-            "weight": 40
+            "weight": 11
         },
         "image": "https://i.imgur.com/vYyF1qj.gif"
     },
@@ -475,7 +475,7 @@
             "co": 44.87,
             "no2": 0.32,
             "noise": 108,
-            "weight": 40
+            "weight": 11
         },
         "image": "https://i.imgur.com/JmcIuVB.gif"
     },
@@ -490,7 +490,7 @@
             "co": 42.44,
             "no2": 0.44,
             "noise": 31,
-            "weight": 39
+            "weight": 11
         },
         "image": "https://i.imgur.com/kwEKxnk.gif"
     },
@@ -505,7 +505,7 @@
             "co": 42,
             "no2": 0.46,
             "noise": 2,
-            "weight": 39
+            "weight": 11
         },
         "image": "https://i.imgur.com/WRKz2wO.gif"
     },
@@ -520,7 +520,7 @@
             "co": 45.09,
             "no2": 0.36,
             "noise": 90,
-            "weight": 35
+            "weight": 10
         },
         "image": "https://i.imgur.com/IvxThS9.gif"
     },
@@ -535,7 +535,7 @@
             "co": 64.22,
             "no2": 0.29,
             "noise": 212,
-            "weight": 36
+            "weight": 10
         },
         "image": "https://i.imgur.com/BnDhLUD.gif"
     },
@@ -550,7 +550,7 @@
             "co": 180.96,
             "no2": 0.27,
             "noise": 271,
-            "weight": 33
+            "weight": 9
         },
         "image": "https://i.imgur.com/k7VSWwE.gif"
     },
@@ -565,7 +565,7 @@
             "co": 40.1,
             "no2": 0.34,
             "noise": 94,
-            "weight": 31
+            "weight": 9
         },
         "image": "https://i.imgur.com/moyrxT3.gif"
     },
@@ -580,7 +580,7 @@
             "co": 37.07,
             "no2": 0.38,
             "noise": 51,
-            "weight": 30
+            "weight": 9
         },
         "image": "https://i.imgur.com/hZkRJw7.gif"
     },
@@ -595,7 +595,7 @@
             "co": 25.08,
             "no2": 0.88,
             "noise": 36,
-            "weight": 30
+            "weight": 9
         },
         "image": "https://i.imgur.com/4ayepZ9.gif"
     },
@@ -610,7 +610,7 @@
             "co": 24.47,
             "no2": 1.05,
             "noise": 41,
-            "weight": 26
+            "weight": 7
         },
         "image": "https://i.imgur.com/gCLqgdE.gif"
     },
@@ -625,7 +625,7 @@
             "co": 20.31,
             "no2": 0.51,
             "noise": 99,
-            "weight": 28
+            "weight": 8
         },
         "image": "https://i.imgur.com/RCyia2I.gif"
     },
@@ -640,7 +640,7 @@
             "co": 26.96,
             "no2": 0.38,
             "noise": 13,
-            "weight": 24
+            "weight": 7
         },
         "image": "https://i.imgur.com/RabFT1a.gif"
     },
@@ -655,7 +655,7 @@
             "co": 95.69,
             "no2": 0.26,
             "noise": 71,
-            "weight": 22
+            "weight": 6
         },
         "image": "https://i.imgur.com/Hoq00Ho.gif"
     },
@@ -670,7 +670,7 @@
             "co": 252.01,
             "no2": 0.26,
             "noise": 76,
-            "weight": 21
+            "weight": 6
         },
         "image": "https://i.imgur.com/5pgDzMC.gif"
     },
@@ -685,7 +685,7 @@
             "co": 34.21,
             "no2": 1.21,
             "noise": 61,
-            "weight": 21
+            "weight": 6
         },
         "image": "https://i.imgur.com/T7RoB20.gif"
     },
@@ -700,7 +700,7 @@
             "co": 35.52,
             "no2": 1.56,
             "noise": 73,
-            "weight": 21
+            "weight": 6
         },
         "image": "https://i.imgur.com/xayiePk.gif"
     },
@@ -715,7 +715,7 @@
             "co": 35.91,
             "no2": 1.74,
             "noise": 40,
-            "weight": 19
+            "weight": 5
         },
         "image": "https://i.imgur.com/B6Gd3fY.gif"
     },
@@ -730,7 +730,7 @@
             "co": 44.64,
             "no2": 1.08,
             "noise": 128,
-            "weight": 17
+            "weight": 5
         },
         "image": "https://i.imgur.com/JCMzayI.gif"
     },
@@ -745,7 +745,7 @@
             "co": 47.17,
             "no2": 0.69,
             "noise": 90,
-            "weight": 19
+            "weight": 5
         },
         "image": "https://i.imgur.com/mhEBsGq.gif"
     },
@@ -760,7 +760,7 @@
             "co": 53.58,
             "no2": 0.41,
             "noise": 29,
-            "weight": 17
+            "weight": 5
         },
         "image": "https://i.imgur.com/uMZ9nla.gif"
     },
@@ -775,7 +775,7 @@
             "co": 54.36,
             "no2": 0.29,
             "noise": 41,
-            "weight": 16
+            "weight": 5
         },
         "image": "https://i.imgur.com/SCNeQiD.gif"
     },
@@ -790,7 +790,7 @@
             "co": 36.49,
             "no2": 0.36,
             "noise": 22,
-            "weight": 15
+            "weight": 4
         },
         "image": "https://i.imgur.com/M5O62sR.gif"
     },
@@ -805,7 +805,7 @@
             "co": 19.1,
             "no2": 0.34,
             "noise": 60,
-            "weight": 14
+            "weight": 4
         },
         "image": "https://i.imgur.com/vNA7yRz.gif"
     },
@@ -820,7 +820,7 @@
             "co": 23.87,
             "no2": 0.28,
             "noise": 153,
-            "weight": 14
+            "weight": 4
         },
         "image": "https://i.imgur.com/1TvKJYw.gif"
     },
@@ -835,7 +835,7 @@
             "co": 23.43,
             "no2": 0.4,
             "noise": 77,
-            "weight": 11
+            "weight": 3
         },
         "image": "https://i.imgur.com/yBPkTX7.gif"
     },
@@ -850,7 +850,7 @@
             "co": 25.7,
             "no2": 0.33,
             "noise": 81,
-            "weight": 12
+            "weight": 3
         },
         "image": "https://i.imgur.com/tr6ev0O.gif"
     },
@@ -865,7 +865,7 @@
             "co": 26.48,
             "no2": 0.32,
             "noise": 66,
-            "weight": 11
+            "weight": 3
         },
         "image": "https://i.imgur.com/qx32FSq.gif"
     },
@@ -880,7 +880,7 @@
             "co": 35.14,
             "no2": 0.31,
             "noise": 20,
-            "weight": 11
+            "weight": 3
         },
         "image": "https://i.imgur.com/wgmVLPt.gif"
     },
@@ -895,7 +895,7 @@
             "co": 31.84,
             "no2": 0.29,
             "noise": 110,
-            "weight": 9
+            "weight": 3
         },
         "image": "https://i.imgur.com/iEuV7MZ.gif"
     },
@@ -910,7 +910,7 @@
             "co": 28.59,
             "no2": 0.3,
             "noise": 93,
-            "weight": 8
+            "weight": 2
         },
         "image": "https://i.imgur.com/oZItLAF.gif"
     },
@@ -925,7 +925,7 @@
             "co": 30.97,
             "no2": 0.28,
             "noise": 130,
-            "weight": 8
+            "weight": 2
         },
         "image": "https://i.imgur.com/oZlGx2P.gif"
     },
@@ -940,7 +940,7 @@
             "co": 49.31,
             "no2": 0.28,
             "noise": 143,
-            "weight": 8
+            "weight": 2
         },
         "image": "https://i.imgur.com/MdLT25p.gif"
     },
@@ -955,7 +955,7 @@
             "co": 228.47,
             "no2": 0.26,
             "noise": 155,
-            "weight": 7
+            "weight": 2
         },
         "image": "https://i.imgur.com/xPhbmmF.gif"
     },
@@ -970,7 +970,7 @@
             "co": 31.84,
             "no2": 2.33,
             "noise": 0,
-            "weight": 7
+            "weight": 2
         },
         "image": "https://i.imgur.com/F8yzJAd.gif"
     },
@@ -985,7 +985,7 @@
             "co": 36.49,
             "no2": 4.29,
             "noise": 0,
-            "weight": 7
+            "weight": 2
         },
         "image": "https://i.imgur.com/vNrTyyI.gif"
     },
@@ -1000,7 +1000,7 @@
             "co": 44.87,
             "no2": 4.08,
             "noise": 0,
-            "weight": 5
+            "weight": 1
         },
         "image": "https://i.imgur.com/un3BGb0.gif"
     },
@@ -1015,7 +1015,7 @@
             "co": 69.55,
             "no2": 2.86,
             "noise": 137,
-            "weight": 6
+            "weight": 2
         },
         "image": "https://i.imgur.com/7uo8U2P.gif"
     },
@@ -1030,7 +1030,7 @@
             "co": 44.64,
             "no2": 2,
             "noise": 397,
-            "weight": 5
+            "weight": 1
         },
         "image": "https://i.imgur.com/GBwUIiY.gif"
     },
@@ -1045,7 +1045,7 @@
             "co": 50.54,
             "no2": 1.09,
             "noise": 130,
-            "weight": 5
+            "weight": 1
         },
         "image": "https://i.imgur.com/dcmWM3N.gif"
     },
@@ -1060,7 +1060,7 @@
             "co": 84.1,
             "no2": 0.56,
             "noise": 30,
-            "weight": 4
+            "weight": 1
         },
         "image": "https://i.imgur.com/0Euc1Ym.gif"
     },
@@ -1075,7 +1075,7 @@
             "co": 215.5,
             "no2": 0.42,
             "noise": 0,
-            "weight": 4
+            "weight": 1
         },
         "image": "https://i.imgur.com/oKFKhNC.gif"
     },
@@ -1090,7 +1090,7 @@
             "co": 21.41,
             "no2": 3.79,
             "noise": 3,
-            "weight": 4
+            "weight": 1
         },
         "image": "https://i.imgur.com/Rtpg2fi.gif"
     },
@@ -1105,7 +1105,7 @@
             "co": 20.03,
             "no2": 6.76,
             "noise": 115,
-            "weight": 4
+            "weight": 1
         },
         "image": "https://i.imgur.com/kP7gnxr.gif"
     },
@@ -1120,7 +1120,7 @@
             "co": 18.7,
             "no2": 9.28,
             "noise": 3,
-            "weight": 3
+            "weight": 1
         },
         "image": "https://i.imgur.com/66S2PGV.gif"
     },
@@ -1135,7 +1135,7 @@
             "co": 20.31,
             "no2": 9.16,
             "noise": 280,
-            "weight": 2
+            "weight": 1
         },
         "image": "https://i.imgur.com/JqJj3pw.gif"
     },
@@ -1150,7 +1150,7 @@
             "co": 25.39,
             "no2": 6.02,
             "noise": 64,
-            "weight": 3
+            "weight": 1
         },
         "image": "https://i.imgur.com/3W3cPTA.gif"
     },
@@ -1165,7 +1165,7 @@
             "co": 29.76,
             "no2": 3.44,
             "noise": 1,
-            "weight": 2
+            "weight": 1
         },
         "image": "https://i.imgur.com/DqbV0do.gif"
     },
@@ -1180,7 +1180,7 @@
             "co": 36.88,
             "no2": 1.63,
             "noise": 15,
-            "weight": 2
+            "weight": 1
         },
         "image": "https://i.imgur.com/EM4ler5.gif"
     },
@@ -1195,7 +1195,7 @@
             "co": 71.52,
             "no2": 0.57,
             "noise": 1,
-            "weight": 2
+            "weight": 1
         },
         "image": "https://i.imgur.com/pjHiG0g.gif"
     },
@@ -1210,7 +1210,7 @@
             "co": 208.83,
             "no2": 0.38,
             "noise": 58,
-            "weight": 1
+            "weight": 0
         },
         "image": "https://i.imgur.com/563vKCP.gif"
     },
@@ -1225,7 +1225,7 @@
             "co": 32.92,
             "no2": 0.46,
             "noise": 27,
-            "weight": 1
+            "weight": 0
         },
         "image": "https://i.imgur.com/4ymsSAM.gif"
     },
@@ -1240,7 +1240,7 @@
             "co": 34.21,
             "no2": 0.54,
             "noise": 71,
-            "weight": 1
+            "weight": 0
         },
         "image": "https://i.imgur.com/vcLPe7b.gif"
     },
@@ -1255,7 +1255,7 @@
             "co": 41.36,
             "no2": 0.95,
             "noise": 147,
-            "weight": 1
+            "weight": 0
         },
         "image": "https://i.imgur.com/LL3Jq9s.gif"
     },
@@ -1270,7 +1270,7 @@
             "co": 42,
             "no2": 0.5,
             "noise": 59,
-            "weight": 1
+            "weight": 0
         },
         "image": "https://i.imgur.com/ZjiB1ic.gif"
     },
@@ -1285,7 +1285,7 @@
             "co": 51.79,
             "no2": 0.94,
             "noise": 344,
-            "weight": 1
+            "weight": 0
         },
         "image": "https://i.imgur.com/Eey7y7a.gif"
     },
@@ -1300,7 +1300,7 @@
             "co": 247.87,
             "no2": 0.24,
             "noise": 51,
-            "weight": 1
+            "weight": 0
         },
         "image": "https://i.imgur.com/lknhT4O.gif"
     },
