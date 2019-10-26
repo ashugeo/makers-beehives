@@ -1,8 +1,13 @@
 let json = {};
 
 $(document).ready(() => {
-    $.getJSON('data.json', data => {
-        json = data;
+    // $.getJSON('data.json', data => {
+    //     json = data;
+    //     showData();
+    // });
+
+    $.getJSON("https://sheets.googleapis.com/v4/spreadsheets/1cJRaDxrSRpd754ncW69N8Kk84PlfYFvD9PlvOZIjPls/?key=AIzaSyDXfpXBCz1AZ_lN3R3lZZ42Jprpv4RFka8&includeGridData=true", data => {
+        json = data.sheets[4].data[0].rowData;
         showData();
     });
 });
@@ -12,25 +17,28 @@ function showData() {
 
     const latest = json[0];
 
-    const date = `Last update on ${latest.date.split(' ')[0]} at ${latest.date.split(' ')[1]}`;
+    const date = `Last update on ${latest.values[0].formattedValue.split(' ')[0]} at ${latest.values[0].formattedValue.split(' ')[1]}`;
     $('#latest-date').html(date);
 
     $('#camera-feed .image').remove();
 
-    $('#camera-feed h3').after(`<div class="image"><img src="${latest.image}"><span class="live"><i class="fas fa-video"></i>Live</span></div>`);
+    $('#camera-feed h3').after(`<div class="image"><img src="${latest.values[2].formattedValue}"><span class="live"><i class="fas fa-video"></i>Live</span></div>`);
 
     const previous = json[1];
 
-    for (const type of Object.keys(latest.data)) {
+    const parsedData = JSON.parse(latest.values[1].formattedValue);
+
+    for (const type of Object.keys(parsedData)) {
         if (['battery', 'panel'].includes(type)) continue;
-        let value = latest.data[type];
-        let previousValue = previous.data[type];
+
+        let value = parsedData[type];
+        let previousValue = JSON.parse(previous.values[1].formattedValue)[type];
 
         $(`.box#${type} h5 span.value`).html(value);
 
         if (previousValue === 0) continue;
         const delta = Math.round((value / previousValue * 100 - 100) * 10) / 10;
-        // console.log(value, previousValue, delta);
+
         $(`.box#${type} p`).html(`${delta > 0 ? '<span class="plus">+' : '<span class="minus">'}${delta}%</span>`);
 
         createChart($(`.box#${type} canvas`), json);
@@ -62,9 +70,9 @@ function fillTable() {
         };
 
         html = '<tr>';
-        html += `<td>${mesure.date}</td>`;
+        html += `<td>${mesure.values[0].formattedValue}</td>`;
         for (const type of ['light', 'temperature', 'humidity', 'noise', 'co', 'no2']) {
-            html += `<td>${mesure.data[type]}${units[type]}</td>`;
+            html += `<td>${JSON.parse(mesure.values[1].formattedValue)[type]}${units[type]}</td>`;
         }
         html += '</tr>'
         $('table tbody').append(html);
@@ -87,11 +95,12 @@ function createChart($el, json) {
     }
 
     for (let i = 10; i >= 0; i -= 1) {
-        let date = json[i].date;
+        console.log(json[i]);
+        let date = json[i].values[0].formattedValue;
         date = `${date.split('/')[0]}/${date.split('/')[1]}`
         data.labels.push(date);
 
-        let value = json[i].data[type];
+        let value = JSON.parse(json[i].values[1].formattedValue)[type];
 
         data.datasets[0].data.push(value);
     }
