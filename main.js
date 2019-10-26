@@ -139,8 +139,15 @@ $(document).on('click', 'nav ul li', (e) => {
     $('nav ul li.selected').removeClass('selected');
     $el.addClass('selected');
 
-    $.getJSON('data.json', data => {
-        json = data;
+    const id = parseInt($el.attr('id').replace('beehive', ''));
+
+    $.getJSON("https://sheets.googleapis.com/v4/spreadsheets/1cJRaDxrSRpd754ncW69N8Kk84PlfYFvD9PlvOZIjPls/?key=AIzaSyDXfpXBCz1AZ_lN3R3lZZ42Jprpv4RFka8&includeGridData=true", data => {
+        json = data.sheets[id].data[0].rowData;
         showData();
     });
+
+    // $.getJSON('data.json', data => {
+    //     json = data;
+    //     showData();
+    // });
 });
