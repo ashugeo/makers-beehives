@@ -95,6 +95,7 @@ function createChart($el, json) {
     }
 
     for (let i = 10; i >= 0; i -= 1) {
+        if (!json[i] || !json[i].values[0].formattedValue) continue;
         let date = json[i].values[0].formattedValue;
         date = `${date.split('/')[0]}/${date.split('/')[1]}`
         data.labels.push(date);
